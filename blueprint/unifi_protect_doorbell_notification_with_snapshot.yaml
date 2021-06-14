@@ -1,8 +1,8 @@
 blueprint:
   name: Send a camera snapshot when doorbell is pressed
   description: >
-    This automation blueprint creates a camera snapshot if motion is detected 
-    and sends a notification to your phone with the picture.
+    This automation blueprint creates a camera snapshot if doorbell is pressed 
+    and sends a notification to your phone with the picture. 
   domain: automation
   input:
     doorbell:
